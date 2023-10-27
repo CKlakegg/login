@@ -115,11 +115,8 @@
 		213763082AE953600029B31C /* login */ = {
 			isa = PBXGroup;
 			children = (
-				2137635A2AEBB4D90029B31C /* View */,
 				213763092AE953600029B31C /* loginApp.swift */,
-				2137630B2AE953600029B31C /* ContentView.swift */,
-				213763562AE9704B0029B31C /* HomeView.swift */,
-				213763582AE977540029B31C /* SplashScreenView.swift */,
+				2137635A2AEBB4D90029B31C /* View */,
 				213763532AE962020029B31C /* ViewModel */,
 				2137630D2AE953620029B31C /* Assets.xcassets */,
 				213763502AE960B30029B31C /* GoogleService-Info.plist */,
@@ -148,6 +145,9 @@
 			isa = PBXGroup;
 			children = (
 				2137635B2AEBB4F30029B31C /* LoginView.swift */,
+				213763562AE9704B0029B31C /* HomeView.swift */,
+				213763582AE977540029B31C /* SplashScreenView.swift */,
+				2137630B2AE953600029B31C /* ContentView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
